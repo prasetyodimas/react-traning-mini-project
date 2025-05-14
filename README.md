@@ -1,4 +1,4 @@
-## React + Vite Mini Traning Project ( MultiLanguage App )
+## React + Vite Mini Traning Project ( Multi Language App )
 
 
 ### How To Running 
